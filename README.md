@@ -83,17 +83,8 @@ _Built using Next.js, MongoDB, and Cloudinary_
 <div align="center">
 
 <a href="https://github.com/nirajrajput-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirajrajput-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-</a>
-<!-- <a href="https://github.com/nirajrajput-dev">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajrajput-dev&theme=tokyonight&hide_border=true&background=1a1b27&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" width="48%" />
-</a> -->
-
-<br>
-
-<!-- <a href="https://github.com/nirajrajput-dev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajrajput-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages" width="48%" />
-</a> -->
+</a>
 
 </div>
 
@@ -101,7 +92,7 @@ _Built using Next.js, MongoDB, and Cloudinary_
 
 <div align="center">
 
-<h2>🤝 Let's Connect & Build Something Real</h2>
+<h3>🤝 Let's Connect & Build Something</h3>
 
 _Always up for tech talks, side hustles, and opportunities._
 
