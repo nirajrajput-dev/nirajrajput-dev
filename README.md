@@ -6,25 +6,19 @@
   <img src="https://komarev.com/ghpvc/?username=nirajrajput-dev&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
-<br>
-
----
-
-<br>
+<br><br>
 
 ## ✋ About Me
 
 <div style="border-left: 2px solid #A78BFA; padding-left: 12px; opacity: 0.6;">
 
-Hi, I'm **Niraj** — passionate about building scalable solutions and pixel-perfect experiences. Currently working on a wallpapers website.
+Hi, I'm **Niraj** — passionate about building scalable solutions and pixel-perfect experiences.
+
+Currently working on a wallpapers website.
 
 </div>
 
-<br>
-
----
-
-<br>
+<br><br>
 
 ## 🤹🏻‍♂️ Skills & Tools
 
@@ -54,61 +48,56 @@ Hi, I'm **Niraj** — passionate about building scalable solutions and pixel-per
 
 </div>
 
-<br>
-
----
-
-<br>
+<br><br>
 
 ## 💻 Featured Projects
 
 <div align="center">
 
-![Banner](https://via.placeholder.com/1200x300/1a1b27/A78BFA?text=Featured+Project+Banner)
+![Banner](assets/banner.png)
 
-</div>
+<br>
 
-<div style="border: 1px solid #444; border-radius: 6px; padding: 20px; margin-top: 20px;">
+<table>
+<tr>
+<td>
 
 ### Wallpapers
 
 Built using **Next.js**, **MongoDB**, and **Cloudinary**
 
-🔗 [Live Demo](https://example.com) • 📂 [Source Code](https://github.com/nirajrajput-dev/niraj-wallpapers)
+🔗 [Live Demo](https://example.com)
+
+📂 [Source Code](https://github.com/nirajrajput-dev/niraj-wallpapers)
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
-
----
-
-<br>
+<br><br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirajrajput-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=nirajrajput-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajrajput-dev&theme=tokyonight&hide_border=true&background=1a1b27&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajrajput-dev&theme=tokyonight&hide_border=true&background=1a1b27&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajrajput-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajrajput-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%" />
 
 </div>
 
-<br>
-
----
-
-<br>
-
-## 🤝 Let's Connect & Build Something Real
+<br><br>
 
 <div align="center">
 
+**🤝 Let's Connect & Build Something Real**
+
 Always up for tech talks, side hustles, and opportunities.
 
-<br>
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nirajrajput.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajrajput/)
@@ -117,8 +106,6 @@ Always up for tech talks, side hustles, and opportunities.
 </div>
 
 <br>
-
----
 
 <div align="center">
   <sub>Built with 💜 by Niraj</sub>
