@@ -20,7 +20,7 @@ Currently working on a wallpapers website.
 
 <br><br>
 
-## 🤹🏻‍♂️ Skills & Tools
+## ⚡ Skills & Tools
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Currently working on a wallpapers website.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -66,9 +66,9 @@ Currently working on a wallpapers website.
 
 _Built using Next.js, MongoDB, and Cloudinary_
 
-• [Live Demo](https://example.com)
+• [Live Demo](https://peakwalls.vercel.app)
 
-• [Source Code](https://github.com/nirajrajput-dev/niraj-wallpapers)
+• [Source Code](https://github.com/nirajrajput-dev/peakwalls)
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ _Always up for tech talks, side hustles, and opportunities._
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nirajrajput.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nirajrajput.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajrajput/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nirajrajput01)
 
